@@ -1,0 +1,19 @@
+Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,HomeRecord,HomeScore,HomeWin,AwaySeeding,HomeSeeding,PostSeason
+2024,Week 1,FINAL,SUN,09/08,Steelers,1-0,18.0,1.0,Falcons,0-1,10.0,0.0,,,0
+2024,Week 2,FINAL,MON,09/16,Falcons,0-1,22.0,1.0,Eagles,1-0,21.0,0.0,,,0
+2024,Week 3,FINAL,SUN,09/22,Chiefs,1-0,22.0,1.0,Falcons,0-1,17.0,0.0,,,0
+2024,Week 4,FINAL,SUN,09/29,Saints,1-0,24.0,0.0,Falcons,0-1,26.0,1.0,,,0
+2024,Week 5,FINAL,THU,10/03,Buccaneers,1-0,30.0,0.0,Falcons,0-1,36.0,1.0,,,0
+2024,Week 6,FINAL,SUN,10/13,Falcons,0-1,38.0,1.0,Panthers,0-1,20.0,0.0,,,0
+2024,Week 7,FINAL,SUN,10/20,Seahawks,1-0,34.0,1.0,Falcons,0-1,14.0,0.0,,,0
+2024,Week 8,FINAL,SUN,10/27,Falcons,0-1,31.0,1.0,Buccaneers,1-0,26.0,0.0,,,0
+2024,Week 9,FINAL,SUN,11/03,Cowboys,1-0,21.0,0.0,Falcons,0-1,27.0,1.0,,,0
+2024,Week 10,FINAL,SUN,11/10,Falcons,0-1,17.0,0.0,Saints,1-0,20.0,1.0,,,0
+2024,Week 11,FINAL,SUN,11/17,Falcons,0-1,6.0,0.0,Broncos,0-1,38.0,1.0,,,0
+2024,Week 12,BYE,,,Falcons,8-9,,,,,,,,,0
+2024,Week 13,FINAL,SUN,12/01,Chargers,1-0,17.0,1.0,Falcons,0-1,13.0,0.0,,,0
+2024,Week 14,FINAL,SUN,12/08,Falcons,0-1,21.0,0.0,Vikings,1-0,42.0,1.0,,,0
+2024,Week 15,FINAL,MON,12/16,Falcons,0-1,15.0,1.0,Raiders,0-1,9.0,0.0,,,0
+2024,Week 16,FINAL,SUN,12/22,Giants,0-1,7.0,0.0,Falcons,0-1,34.0,1.0,,,0
+2024,Week 17,FINAL,SUN,12/29,Falcons,0-1,24.0,0.0,Commanders,0-1,30.0,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Panthers,0-1,44.0,1.0,Falcons,0-1,38.0,0.0,,,0
